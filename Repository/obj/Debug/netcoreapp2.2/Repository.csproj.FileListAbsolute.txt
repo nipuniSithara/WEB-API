@@ -1,0 +1,12 @@
+C:\Users\NS\source\repos\ManagementSystem1\Repository\bin\Debug\netcoreapp2.2\Repository.deps.json
+C:\Users\NS\source\repos\ManagementSystem1\Repository\bin\Debug\netcoreapp2.2\Repository.dll
+C:\Users\NS\source\repos\ManagementSystem1\Repository\bin\Debug\netcoreapp2.2\Repository.pdb
+C:\Users\NS\source\repos\ManagementSystem1\Repository\bin\Debug\netcoreapp2.2\Models.dll
+C:\Users\NS\source\repos\ManagementSystem1\Repository\bin\Debug\netcoreapp2.2\Models.pdb
+C:\Users\NS\source\repos\ManagementSystem1\Repository\obj\Debug\netcoreapp2.2\Repository.csprojAssemblyReference.cache
+C:\Users\NS\source\repos\ManagementSystem1\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CoreCompileInputs.cache
+C:\Users\NS\source\repos\ManagementSystem1\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfoInputs.cache
+C:\Users\NS\source\repos\ManagementSystem1\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfo.cs
+C:\Users\NS\source\repos\ManagementSystem1\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CopyComplete
+C:\Users\NS\source\repos\ManagementSystem1\Repository\obj\Debug\netcoreapp2.2\Repository.dll
+C:\Users\NS\source\repos\ManagementSystem1\Repository\obj\Debug\netcoreapp2.2\Repository.pdb
